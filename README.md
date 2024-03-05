@@ -7,15 +7,15 @@ from organ-specific neural circuitry.
 
 Mapintegratedvuer includes multiple components for visualising data, the list of viewers can be found below:
 
-### [Flatmapvuer](https://github.com/ABI-Software/flatmapvuer)
+### [Flatmapvuer](https://github.com/ABI-MAP-Core/flatmapvuer)
 
-### [Scaffoldvuer](https://github.com/ABI-Software/scaffoldvuer)
+### [Scaffoldvuer](https://github.com/ABI-MAP-Core/scaffoldvuer)
 
-### [Simulationvuer](https://github.com/ABI-Software/simulationvuer)
+### [Simulationvuer](https://github.com/ABI-MAP-Core/simulationvuer)
 
-### [Plotvuer](https://github.com/ABI-Software/plotvuer)
+### [Plotvuer](https://github.com/ABI-MAP-Core/plotvuer)
 
-### [Sidebar](https://github.com/ABI-Software/map-sidebar.git)
+### [Sidebar](https://github.com/ABI-MAP-Core/map-sidebar.git)
 
 
 ## mapintegratedvuer on NPM
